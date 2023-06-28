@@ -1,6 +1,4 @@
 <?php
-require_once("assets/classes/TransipAPI.inc"); 
-<?php
 require_once("assets/classes/TransipAPI.inc");
 
 $domainStatuses = [
